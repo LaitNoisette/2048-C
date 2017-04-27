@@ -1,0 +1,6 @@
+#ifndef PARTIE3TEST_H_INCLUDED
+#define PARTIE3TEST_H_INCLUDED
+
+void test_partie3();
+
+#endif // PARTIE3TEST_H_INCLUDED

@@ -1,0 +1,273 @@
+# depslib dependency file v1.0
+1485790700 source:/home/usager/11610806/2048/2048/InitialiseJeu.c
+	<stdio.h>
+	<stdlib.h>
+
+1485524813 source:/home/usager/11610806/2048/2048/LibreMemoire.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+
+1485524810 /home/usager/11610806/2048/2048/InitialiseJeu.h
+
+1485789645 source:/home/usager/11610806/2048/2048/affichage.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+
+1485528163 source:/home/usager/11610806/2048/2048/ajouteValalea.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"caseVide.h"
+	"setVal.h"
+
+1485526187 source:/home/usager/11610806/2048/2048/caseVide.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"indicevalide.h"
+
+1485535213 source:/home/usager/11610806/2048/2048/finPartie.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"gagne.h"
+	"perdu.h"
+
+1485790789 source:/home/usager/11610806/2048/2048/gagne.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+
+1485524967 /home/usager/11610806/2048/2048/indicevalide.h
+
+1485525672 source:/home/usager/11610806/2048/2048/getVal.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"indicevalide.h"
+
+1485525013 source:/home/usager/11610806/2048/2048/indiceValide.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+
+1485794524 source:/home/usager/11610806/2048/2048/main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"InitialiseJeu.h"
+	"ajouteValAlea.h"
+	"affichage.h"
+	"jouer.h"
+	"Partie1test.h"
+
+1485533312 source:/home/usager/11610806/2048/2048/mouvement.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"ajouteValAlea.h"
+
+1485535152 source:/home/usager/11610806/2048/2048/perdu.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"caseVide.h"
+	"getVal.h"
+	"indicevalide.h"
+
+1485792912 source:/home/usager/11610806/2048/2048/setVal.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"indicevalide.h"
+
+1485526486 /home/usager/11610806/2048/2048/caseVide.h
+
+1485527061 /home/usager/11610806/2048/2048/getVal.h
+
+1485792926 /home/usager/11610806/2048/2048/setVal.h
+
+1485527515 /home/usager/11610806/2048/2048/affichage.h
+
+1485528243 /home/usager/11610806/2048/2048/ajouteValAlea.h
+
+1485530458 /home/usager/11610806/2048/2048/gagne.h
+
+1485531623 /home/usager/11610806/2048/2048/perdu.h
+
+1485790085 source:/home/usager/11610806/2048/2048/jouer.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"mouvement.h"
+	"finPartie.h"
+
+1485533379 /home/usager/11610806/2048/2048/mouvement.h
+
+1485534156 /home/usager/11610806/2048/2048/finPartie.h
+
+1485533841 source:/home/usager/11610806/2048/2048/saisieD.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+
+1485533924 source:/home/usager/11610806/2048/2048/score.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+
+1485535396 /home/usager/11610806/2048/2048/jouer.h
+
+1485794112 source:/home/usager/11610806/2048/2048/Partie1test.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"InitialiseJeu.h"
+
+1485793468 source:/home/usager/11610806/2048/2048/Partie2test.c
+
+1485794516 /home/usager/11610806/2048/2048/Partie1test.h
+
+1486734987 source:/home/usager/11610806/2048/main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"InitialiseJeu.h"
+	"ajouteValAlea.h"
+	"affichage.h"
+	"jouer.h"
+	"Partie1test.h"
+
+1485524810 /home/usager/11610806/2048/InitialiseJeu.h
+
+1485528242 /home/usager/11610806/2048/ajouteValAlea.h
+
+1485527514 /home/usager/11610806/2048/affichage.h
+
+1485535396 /home/usager/11610806/2048/jouer.h
+
+1485949898 /home/usager/11610806/2048/Partie1test.h
+
+1485790700 source:/home/usager/11610806/2048/InitialiseJeu.c
+	<stdio.h>
+	<stdlib.h>
+
+1485524812 source:/home/usager/11610806/2048/LibreMemoire.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+
+1485789644 source:/home/usager/11610806/2048/affichage.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+
+1485528162 source:/home/usager/11610806/2048/ajouteValalea.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"caseVide.h"
+	"setVal.h"
+
+1485526486 /home/usager/11610806/2048/caseVide.h
+
+1485792926 /home/usager/11610806/2048/setVal.h
+
+1485526186 source:/home/usager/11610806/2048/caseVide.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"indicevalide.h"
+
+1485524966 /home/usager/11610806/2048/indicevalide.h
+
+1485535212 source:/home/usager/11610806/2048/finPartie.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"gagne.h"
+	"perdu.h"
+
+1485530458 /home/usager/11610806/2048/gagne.h
+
+1485531622 /home/usager/11610806/2048/perdu.h
+
+1485790788 source:/home/usager/11610806/2048/gagne.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+
+1485525672 source:/home/usager/11610806/2048/getVal.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"indicevalide.h"
+
+1485525012 source:/home/usager/11610806/2048/indiceValide.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+
+1486045772 source:/home/usager/11610806/2048/jouer.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"mouvement.h"
+	"finPartie.h"
+	"score.h"
+	"affichage.h"
+	"saisieD.h"
+
+1485533378 /home/usager/11610806/2048/mouvement.h
+
+1485534156 /home/usager/11610806/2048/finPartie.h
+
+1485535152 source:/home/usager/11610806/2048/perdu.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"caseVide.h"
+	"getVal.h"
+	"indicevalide.h"
+
+1485527060 /home/usager/11610806/2048/getVal.h
+
+1485533840 source:/home/usager/11610806/2048/saisieD.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+
+1485533924 source:/home/usager/11610806/2048/score.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+
+1485792912 source:/home/usager/11610806/2048/setVal.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"indicevalide.h"
+
+1486044720 source:/home/usager/11610806/2048/Partie2test.c
+
+1485947648 source:/home/usager/11610806/2048/mouvement.c
+	<stdio.h>
+	<stdlib.h>
+	"InitialiseJeu.h"
+	"ajouteValAlea.h"
+
+1486045476 source:/home/usager/11610806/2048/Partie1test.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"InitialiseJeu.h"
+	"indicevalide.h"
+	"setVal.h"
+	"getVal.h"
+
+1485533930 /home/usager/11610806/2048/score.h
+
+1485533844 /home/usager/11610806/2048/saisieD.h
+
